@@ -1,5 +1,5 @@
 npm install --save react react-dom @types/react @types/react-dom
 
 
-v1.0.2 mencoba clone dan pull 
+v1.0.2 mencoba clone dan pull.
 
